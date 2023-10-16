@@ -1,19 +1,15 @@
-.aparecerCaixa {
+#div1, #div2, #div3 {
     width: 80px;
     height: 80px;
-    display: none;
-    margin-bottom: 15px; /* Espaçamento entre as caixas */
+    background-color: red;
+    margin-bottom: 15px; 
   }
   
-  .vermelho {
-    background-color: rgb(216, 79, 79); 
-  }
-
-  .verde {
-    background-color: rgb(93, 212, 93);
+  #div2 {
+    background-color: green; 
   }
   
-  .azul {
-    background-color: rgb(54, 54, 244);
+  #div3 {
+    background-color: blue; 
   }
   
